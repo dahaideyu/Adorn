@@ -1,0 +1,16 @@
+C:\Lucus\Projects\net\core\Adorn\Adorn.Mapping\bin\Debug\netcoreapp2.0\Adorn.Mapping.deps.json
+C:\Lucus\Projects\net\core\Adorn\Adorn.Mapping\bin\Debug\netcoreapp2.0\Adorn.Mapping.dll
+C:\Lucus\Projects\net\core\Adorn\Adorn.Mapping\bin\Debug\netcoreapp2.0\Adorn.Mapping.pdb
+C:\Lucus\Projects\net\core\Adorn\Adorn.Mapping\bin\Debug\netcoreapp2.0\Adorn.Code.dll
+C:\Lucus\Projects\net\core\Adorn\Adorn.Mapping\bin\Debug\netcoreapp2.0\Adorn.Data.dll
+C:\Lucus\Projects\net\core\Adorn\Adorn.Mapping\bin\Debug\netcoreapp2.0\Adorn.Domain.dll
+C:\Lucus\Projects\net\core\Adorn\Adorn.Mapping\bin\Debug\netcoreapp2.0\Adorn.Domain.pdb
+C:\Lucus\Projects\net\core\Adorn\Adorn.Mapping\bin\Debug\netcoreapp2.0\Adorn.Code.pdb
+C:\Lucus\Projects\net\core\Adorn\Adorn.Mapping\bin\Debug\netcoreapp2.0\Adorn.Data.pdb
+C:\Lucus\Projects\net\core\Adorn\Adorn.Mapping\obj\Debug\netcoreapp2.0\Adorn.Mapping.csprojAssemblyReference.cache
+C:\Lucus\Projects\net\core\Adorn\Adorn.Mapping\obj\Debug\netcoreapp2.0\Adorn.Mapping.csproj.CoreCompileInputs.cache
+C:\Lucus\Projects\net\core\Adorn\Adorn.Mapping\obj\Debug\netcoreapp2.0\Adorn.Mapping.AssemblyInfoInputs.cache
+C:\Lucus\Projects\net\core\Adorn\Adorn.Mapping\obj\Debug\netcoreapp2.0\Adorn.Mapping.AssemblyInfo.cs
+C:\Lucus\Projects\net\core\Adorn\Adorn.Mapping\obj\Debug\netcoreapp2.0\Adorn.Mapping.csproj.CopyComplete
+C:\Lucus\Projects\net\core\Adorn\Adorn.Mapping\obj\Debug\netcoreapp2.0\Adorn.Mapping.dll
+C:\Lucus\Projects\net\core\Adorn\Adorn.Mapping\obj\Debug\netcoreapp2.0\Adorn.Mapping.pdb

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Adorn.Code\Adorn.Code.csproj" />
+    <ProjectReference Include="..\Adorn.Data\Adorn.Data.csproj" />
+    <ProjectReference Include="..\Adorn.Domain\Adorn.Domain.csproj" />
+    <ProjectReference Include="..\Adorn.Repository\Adorn.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+C:\Lucus\Projects\net\core\Adorn\Adorn.Code\bin\Debug\netcoreapp2.0\Adorn.Code.deps.json
+C:\Lucus\Projects\net\core\Adorn\Adorn.Code\bin\Debug\netcoreapp2.0\Adorn.Code.dll
+C:\Lucus\Projects\net\core\Adorn\Adorn.Code\bin\Debug\netcoreapp2.0\Adorn.Code.pdb
+C:\Lucus\Projects\net\core\Adorn\Adorn.Code\obj\Debug\netcoreapp2.0\Adorn.Code.csproj.CoreCompileInputs.cache
+C:\Lucus\Projects\net\core\Adorn\Adorn.Code\obj\Debug\netcoreapp2.0\Adorn.Code.AssemblyInfoInputs.cache
+C:\Lucus\Projects\net\core\Adorn\Adorn.Code\obj\Debug\netcoreapp2.0\Adorn.Code.AssemblyInfo.cs
+C:\Lucus\Projects\net\core\Adorn\Adorn.Code\obj\Debug\netcoreapp2.0\Adorn.Code.dll
+C:\Lucus\Projects\net\core\Adorn\Adorn.Code\obj\Debug\netcoreapp2.0\Adorn.Code.pdb
+C:\Lucus\Projects\net\core\Adorn\Adorn.Code\obj\Debug\netcoreapp2.0\Adorn.Code.csprojAssemblyReference.cache
