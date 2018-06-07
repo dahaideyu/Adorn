@@ -1,0 +1,2 @@
+# Adorn
+core  Framework  sqlserver  
